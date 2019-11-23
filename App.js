@@ -6,6 +6,7 @@ import {AsyncStorage} from 'react-native';
 import {Header, Icon, Button} from 'react-native-elements';
 
 // demo purposes only
+//commenting test
 function * range (start, end) {
   for (let i = start; i <= end; i++) {
     yield i
